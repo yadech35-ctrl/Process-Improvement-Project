@@ -22,7 +22,7 @@ The project includes:
 | File | Description |
 |------|-------------|
 | `process-improvement.md` | Full project with workflow mapping, bottleneck analysis, proposed improvements, implementation roadmap, expected outcomes, and reflection. |
-| `process-improvement-summary.md` | One-page executive summary highlighting top issues, solutions, and expected outcomes for quick reference. |
+| `summary.md` | One-page executive summary highlighting top issues, solutions, and expected outcomes for quick reference. |
 
 ---
 
